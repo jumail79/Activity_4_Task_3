@@ -1,0 +1,47 @@
+{ 
+    margin: 0;
+padding: 0;
+}
+
+.wrapper { margin: 0 auto;
+width: 1000px;
+}
+
+.section img{
+    height: 250px;
+}
+
+.section h2 {
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+.section p {
+    color: rgb(0, 0, 0);
+    margin-right: 15px;
+}
+
+.img-pro1 { 
+    height: 250px;
+}
+.img-pro2 { 
+    height: 250px;
+}
+.img-pro3 { 
+    height: 250px;
+}
+
+.img-kid3 {
+    height: 250px;
+}
+.img-kid4 {
+    height: 250px;
+}
+.img-kid5 {
+    height: 250px;
+}
+.img-new1 {
+    height: 250px;
+}
+.img-kid10 {
+    height: 250px;
+}
